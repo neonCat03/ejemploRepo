@@ -1,2 +1,2 @@
-#setercer cambio.
-Corrigiendo defectos menores, listo para pasar a la rama main.
+# cuarto cambio.
+Trabajando en mejoras propuestas por los usuarios, esa manga de ingratos err esos apreciados dueños de mi alma.
