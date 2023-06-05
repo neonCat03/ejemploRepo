@@ -1,2 +1,2 @@
-# sexto cambio.
-Detalles estéticos. Lo juro, van a ser mi ruina.
+# séptimo cambio.
+Versión lista para publicación.
