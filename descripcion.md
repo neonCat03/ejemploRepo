@@ -1,2 +1,2 @@
-# quinto cambio.
-Puliendo detalles, ¿quien diría que usar esa library expondría los datos bancarios de mis usuarios? ¡Ups!
+# sexto cambio.
+Detalles estéticos. Lo juro, van a ser mi ruina.
