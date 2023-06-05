@@ -1,2 +1,2 @@
-# versión 1.
-Aquí trabajaría en funciones que si bien pueden resultar útiles para el proyecto principal, no son necesarias ni importantes.
+# versión 2.
+Trabajando un poco más.
