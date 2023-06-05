@@ -1,1 +1,1 @@
-la primera versión del proyecto
+Aquí escribiría pruebas para luego ser refinadas, así poder publicarlas en la rama main.
