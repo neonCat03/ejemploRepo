@@ -1,1 +1,2 @@
-Aquí escribiría pruebas para luego ser refinadas, así poder publicarlas en la rama main.
+#primer cambio.
+El primer cambio, arreglando a grandes trazos el proyecto.
