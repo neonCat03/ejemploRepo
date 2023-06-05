@@ -1,2 +1,2 @@
-#segundo cambio.
-Arreglando los defectos que pudiesen surgir con los anteriores cambios.
+#setercer cambio.
+Corrigiendo defectos menores, listo para pasar a la rama main.
