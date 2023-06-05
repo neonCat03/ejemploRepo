@@ -1,2 +1,2 @@
-#setercer cambio.
-Corrigiendo defectos menores, listo para pasar a la rama main.
+# segundo cambio.
+Versión publicada, es posible que más adelante se trabaje en mejoras.
